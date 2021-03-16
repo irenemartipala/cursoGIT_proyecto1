@@ -1,0 +1,9 @@
+# No quiero la carpeta target de mi raiz
+Thumbs.db
+.DS_Store
+target/
+/target/
+registro????.txt
+informe*.*
+/**/ejecucion/log*/*.txt
+!final.txt
